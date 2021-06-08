@@ -1,4 +1,4 @@
-package day3_hw2;
+package day3_2hw;
 
 public class Main {
 
@@ -17,6 +17,7 @@ public class Main {
 		
 		userManager.add(student1);
 		userManager.add(instructor1);
+		
 		
 //		
 //		//eklemeyi toplu yapalım

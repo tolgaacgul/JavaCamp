@@ -1,4 +1,4 @@
-package day3_hw2;
+package day3_2hw;
 
 public class Instructor extends User{
 	int instructorId;

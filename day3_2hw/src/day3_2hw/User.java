@@ -1,4 +1,5 @@
-package day3_hw2;
+package day3_2hw;
+
 
 public class User {
 	int id;

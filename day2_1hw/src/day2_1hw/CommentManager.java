@@ -1,4 +1,4 @@
-package day2_hw1;
+package day2_1hw;
 
 public class CommentManager {
 	public void addComment(Person person, Comment comment) {
