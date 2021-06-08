@@ -18,7 +18,7 @@ public class Instructor extends User{
 		return instructorId;
 	}
 
-	public void setInstructorId(int instructorId) {
+	public void setInstructorIdr(int instructorId) {
 		this.instructorId = instructorId;
 	}
 
