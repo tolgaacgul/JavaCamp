@@ -10,7 +10,6 @@ public class Customer {
 	}
 
 	public Customer(int id, String firstName, String lastName) {
-		//super(); //bu sınıfın basenın constructorını çalıştırır.
 		this.id = id;
 		this.firstName = firstName;
 		this.lastName = lastName;
